@@ -1,2 +1,2 @@
 # To-do-app-
-a code repo for crreatin a to do app 
+a code repo for creating a to do app 
